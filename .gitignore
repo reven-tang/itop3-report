@@ -1,0 +1,5 @@
+*.md
+!README.md
+/myenv/
+/config.ini
+*.png
